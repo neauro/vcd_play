@@ -1,4 +1,6 @@
 VcdPlay::Application.routes.draw do
+  get "play/mist"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
