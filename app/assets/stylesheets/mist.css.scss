@@ -1,10 +1,37 @@
+$body-width:850px;
+@mixin style-clear {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+
 html,
 body {
+  @include style-clear;
   height:100%;
-  margin:0; 
+  font-family: "Raleway", cursive;
+  color:#fff;
 }
 body {
   background-image: url("/images/backgrounds/forest_julie_geiger.jpg");
   background-size:cover;
   background-position-y:40%;
+  background-attachment:fixed;
+}
+h1 {
+  @include style-clear;
+  font-weight:100;
+  margin:0px auto;
+  margin-top:15%;
+  font-size:55pt;
+  width:$body-width;
+}
+p {
+  @include style-clear;
+  width:$body-width;
+  margin:0px auto;
+  font-size:15pt;
+  margin-bottom:2rem;
+  font-family: "Roboto Slab", serif;
 }
