@@ -1,3 +1,3 @@
 vcd_play
 ========
-various experiments
+various experiments. see wiki for details.
