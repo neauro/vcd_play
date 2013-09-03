@@ -4521,3 +4521,275 @@ Served asset /play.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 15:13:06 -0700
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:13:54 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.4ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:39 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.7ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:14:45 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 8ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:15:13 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:16:39 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (25.9ms)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:40 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (2.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:16:50 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:16:59 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.9ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:00 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/play/mist" for 127.0.0.1 at 2013-09-02 18:17:12 -0700
+Processing by PlayController#mist as HTML
+  Rendered play/mist.html.haml within layouts/application (1.4ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:12 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mist.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /mist.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.css?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /play.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/play.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /play.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-09-02 18:17:13 -0700
+Served asset /application.js - 304 Not Modified (0ms)
